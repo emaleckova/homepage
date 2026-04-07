@@ -1,0 +1,12 @@
+h1 {
+  font-family: "Merriweather Sans";
+  color: #541f3fff;
+  text-align: center;
+}
+
+body {
+  font-family: Finlandica, sans-serif;
+  color: #813753ff;
+  background: linear-gradient(to bottom, #ede5cfff, #e0c2a2ff) no-repeat;
+  background-size: cover;
+}
