@@ -7,6 +7,22 @@ h1 {
 body {
   font-family: Finlandica, sans-serif;
   color: #813753ff;
-  background: linear-gradient(to bottom, #ede5cfff, #e0c2a2ff) no-repeat;
-  background-size: cover;
+}
+
+.maindiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.profileimg {
+  top: 10px;
+  width: auto;
+  height: 240px;
+}
+.text {
+  margin-left: 75px;
+  margin-right: 75px;
+  font-size: large;
 }
